@@ -1,1 +1,1 @@
-web: gunicorn agendamento_colegio_modelo_flask:app
+web: gunicorn agendamento_colegio_modelo_flask.py:app
