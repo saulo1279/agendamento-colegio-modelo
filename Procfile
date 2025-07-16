@@ -1,1 +1,1 @@
-web: python agendamento_colégio_modelo_v2.py
+web: python agendamento_colegio_modelo_v2.py
