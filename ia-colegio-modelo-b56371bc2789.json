@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ia-colegio-modelo",
+  "private_key_id": "b56371bc27891a9c7be4d2a665072a5133d04e73",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDNK6ht0Hxf1vxD\nxoP/NbyPbwCVsO7LpoUyCiHppB+i/DWbB0vP29gZmFJzcS5kCkzNkyLg+5Xl6gyS\nnzrAS8Ccc68M8XWiJR51QuwUIxVIwCII0pXL33mxju/jehCEUN8cAbM/OkXhQjjW\nOWI9Jip7l+N60QO2DMjMrv5pGgoV0pYzKAzTWyrcbgvT90IbdTv1z2mrTmw1eT0h\nB0sJIs9aaRaJmOKjRyksc9HFq+pKHI8Ly1J9ISM62V9lpS9KlDzqrTJRlosLbrRC\nx16oJUumo0oBXZ0P+Rx7W2M3ZXLgpKD8r7Ew6wJxUSPExFWEGeoiEoDaMCsfWrmr\njrucsmbLAgMBAAECggEAB4EKRwHyGptFXME9AK+ZdvGLZu4yvbYYdw0R0nbTRWXO\nHB53MmILFFyS33ALT1NlHbu88deh0uftj8tNHc1nfRFqHKIUOFr9MzLAabgixido\n10PEgNFqpQjiU0Kaqgw/LMoPIUfjWGrQo10z76KeuSiEBHDynsz25y2bVoLCTav2\nV1TCYravQwSd+ShkufjJWdhLRGuHk3wIjAEnp8uuJgfWdnlvyHAtuBD36sZgod6W\nOoKBHtuMZ6Fkl/ixjjCBOruc1tCeTDBQwcJAKmOk4s6zdCjB5qCqVRdwraXSEywX\nOwoJsm5aHceAavednXWDtbzPA3r0HkLKEP0jJT/OOQKBgQDq6RTUShIqFWk0fBvu\nVq6Dl7gkid5sRxRD9SPpXKXqL2IvLm1xOI899HDVS8W9M1IrTfn8bk825kShszXE\naBnVyWtjDk60iulYsASMUrNy64gV1SJ5mXLl5B4hHwiBGqqUQ29GdQzSkLy6oDBP\n3L7/ToQsw+cPFqhT/PQuy3NS/wKBgQDflxE4zmCbxrYhYTdLZjQMkMCJTLaYVWQ4\n7VXNA2MpjRIr/sxdCAoIB1gblRoJmuEFUd8LywmJvBeMGlI0bdiOTNkw8HYtWeaN\nOjkOtt3mI7Uuhv0Uyk1LA/x0ftaDPGaEAWt8Tkkkb4TnVKJ8Fk6Cq1f+ZwevEyxT\n+hb1OgXINQKBgQCy4RRUZ6cXVsCLD+rw/h7b4/98C2RNDX84FIbpH/zTrItWpEMA\nkXI6WlZFhfKolVj/0twGxjUZ+BTRETdjPWZW7o8QmgeC4bi5KSf9dshhPUueXHNp\nJ1lgB+qNjCUcsqKsTgGBJIbEHSUp8+t2FQF4RmDN+cuMKNO7SQbkT1adHwKBgA8l\n1OzcTn8/PyeTxoM9MVmIlQK4R8aaQmf47E8vY5B1Fj4UzROgb82LcdSsjU8JRyVt\nHodWAhdqvs2nGtqidoFtg2llYRxBcvUudJ8ilHX7BVNZodu+uO3UH05lKXNKrEdV\nMUsCosHtLDvf6AIwILGJmjSKFmMuEVq/Hr8OZ0XhAoGBALSqgeAAgmU3Xs1iWCGi\nbLWhf0VSesmQWjYdMLx0JdOhzZurJ9xX+i4aLUgKu3N1/MNHa7qCBTdZEsPpHhtU\n3j9LqOdYGwLWSzooBviqDkz/T54xepY9SvXrcKGR7ppBRTTcLayEqmOgQOMOm5Qn\n0yzr2dtrHFJ0LYIzZ+5QqUyj\n-----END PRIVATE KEY-----\n",
+  "client_email": "agendamento-bot@ia-colegio-modelo.iam.gserviceaccount.com",
+  "client_id": "108779946827289416425",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/agendamento-bot%40ia-colegio-modelo.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
