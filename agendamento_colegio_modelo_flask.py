@@ -8,7 +8,11 @@ app = Flask(__name__)
 
 # Autenticação com Google Sheets
 scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
-creds = ServiceAccountCredentials.from_json_keyfile_name("ia-colegio-modelo-b56371bc2789.json", scope)
+import json
+creds_json = os.getenv("GOOGLE_SERVICE_ACCOUNT_JSON")
+creds_dict = json.loads(creds_json)
+creds = ServiceAccountCredentials.from_json_keyfile_dict(creds_dict, scope)
+
 client = gspread.authorize(creds)
 
 # ID da planilha (você pode mudar via variável de ambiente no Render)
