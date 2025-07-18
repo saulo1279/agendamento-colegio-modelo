@@ -16,7 +16,7 @@ spreadsheet_id = os.getenv("PLANILHA_ID")
 sheet = client.open_by_key(spreadsheet_id).worksheet("Página1")
 
 # Chave da OpenAI (opcional - pode estar em branco se ainda não estiver usando IA)
-openai.api_key = os.getenv("OPENAI_API_KEY")
+openai.api_key = os.getenv("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")
 
 @app.route('/')
 def home():
